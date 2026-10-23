@@ -1,0 +1,6 @@
+{
+  "name": "Sanganapalli Shop & Srujala Water Tanker Service",
+  "description": "Local grocery and general shop plus Srujala water tanker booking service in Sanganapalli Village with Telugu and English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
